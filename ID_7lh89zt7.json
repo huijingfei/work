@@ -1,0 +1,994 @@
+[
+  {
+    "tag": "[vmess]剩余流量：149.25 GB",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 2095,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-01.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]距离下次重置剩余：29 天",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 2095,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-01.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]套餐到期：2025-05-26",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 2095,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-01.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]过滤掉57条线路",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 2095,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-01.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]防失联:https://ssrsub.com",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 2095,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-01.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]官网:https://ssrsub.de",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 2095,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-02.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vless]🇰🇷+韩国+春川VL",
+    "type": "vless",
+    "server": "chuncheonvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "bSKvzQBlbelHSO48HwWF3w6RIE7rBGJCNt6qfO9GiBU",
+        "short_id": "8a92df9f"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "safari"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇯🇵+日本+东京VL",
+    "type": "vless",
+    "server": "tokyovl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "emTX_V950QH6T0sJWIL9imrwnQDPt_geLhrDyHdlN3A",
+        "short_id": "dc1ed38a"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇯🇵+日本+大阪VL",
+    "type": "vless",
+    "server": "osakavl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.sega.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "JxznHQARpV_row58Umwrf9oxUEZSY_vtx5bqE6p5HWs",
+        "short_id": "54287f86"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇸🇬+新加坡VL",
+    "type": "vless",
+    "server": "singaporevl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "FB_SEIhjDQkx5-vPBz5AljDjBWjeVp3vsa5dIDT3hjI",
+        "short_id": "eed07ce8"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "safari"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇸🇬+新加坡西部VL",
+    "type": "vless",
+    "server": "singaporewestvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.nvidia.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "y1OWcLMH7bQyXCHxN-R3shg3-Vv_TLoYkTNPJAdJ6Sk",
+        "short_id": "f71dbe70"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇦🇪+迪拜VL",
+    "type": "vless",
+    "server": "dubaivl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.tesla.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "DzlWuJzaXbG35QdBxjC4vHupSN3Tn5UuJhS7iLOoJTk",
+        "short_id": "359b0dd9"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "ios"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇺🇸+美国+圣何塞VL+01",
+    "type": "vless",
+    "server": "sanjosevl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "6oG5XohiuvzvnK4utwfM3oYlYWeoK7a0588JOCzXkSs",
+        "short_id": "94cd2876"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "edge"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇺🇸+美国+圣何塞VL+02",
+    "type": "vless",
+    "server": "sanjosevl2.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.sega.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "cji25puorIzI9UEKrkX_trVIbYDPn4z55nmR3HbbGAQ",
+        "short_id": "de515e95"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇺🇸+美国+阿什本VL",
+    "type": "vless",
+    "server": "ashburnvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "koCKAx03fV7Es7iYVsuYlsTMUTvwO43IiBwTugow21U",
+        "short_id": "a524af32"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "edge"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇺🇸+美国+凤凰城VL",
+    "type": "vless",
+    "server": "phoenixvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.nvidia.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "P5TZNhMFTmmp_Ru-zi4zA74hNvO28mTIQPHQhmFcuD4",
+        "short_id": "5c799fc1"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "chrome"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇺🇸+美国+芝加哥VL+2X",
+    "type": "vless",
+    "server": "chicagovl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.tesla.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "Qd1IsEbqY1kCtjXeKDuXNAPCtAc16VjE_fdZUT0fWns",
+        "short_id": "f5061415"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "firefox"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇩🇪+德国+法兰克福VL",
+    "type": "vless",
+    "server": "frankfurtvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "eHG_2u_LWYQPTYRZ_CrkUfcJZAl_h1OIwzWzrcpQwjM",
+        "short_id": "199ab6f6"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "ios"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇬🇧+英国+伦敦VL",
+    "type": "vless",
+    "server": "londonvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.sega.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "Z5RP2C1oxo0bsH9eXhxtPXKnYihrGDNOrGSPmV6XZm8",
+        "short_id": "b273a841"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇫🇷+法国+巴黎VL",
+    "type": "vless",
+    "server": "parisvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "pssWARf3K0Y5fSQCHEgooeOKd5cdBq4MMp5UmG0EQBU",
+        "short_id": "d962b442"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "firefox"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇫🇷+法国+马赛VL",
+    "type": "vless",
+    "server": "marseillevl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.nvidia.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "lu960iMfPSdjcFY_swCVoS8oMH07k23uG55cXyW7iww",
+        "short_id": "50020e8c"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇨🇦+加拿大+蒙特利尔VL",
+    "type": "vless",
+    "server": "montrealvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.tesla.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "934OgAXfA5JjsTDf7R2yylemWTKHQCbhC4tR34Ny2xU",
+        "short_id": "167e66f9"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "ios"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇦🇺+澳大利亚+墨尔本VL",
+    "type": "vless",
+    "server": "melbournevl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "QMH_-smFm-tSNcDL1qiC1km-cIrreQQ7dgS1C06k3QY",
+        "short_id": "8bb9f76f"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "chrome"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇮🇳+印度+海得拉巴VL",
+    "type": "vless",
+    "server": "hyderabadvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.sega.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "jBqqcDNO1UWChDW9vf-jUWktdXXIhQdg74nQMLme5zU",
+        "short_id": "b184fb99"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "ios"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇲🇽+墨西哥+克雷塔罗VL",
+    "type": "vless",
+    "server": "queretarovl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "PPG6HhrAi5ZRw3Tx2UUlSwmQ5DKPEJeyEpfqDPJlAnA",
+        "short_id": "5574141c"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "chrome"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇧🇷+巴西+维涅杜",
+    "type": "vless",
+    "server": "vinhedovl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.nvidia.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "Q2S4a-a6_ZbV6E0fZ8LM-dxtJm0aXaHQCGRwgSwNiXA",
+        "short_id": "6da6175a"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇸🇦+沙特阿拉伯+吉达",
+    "type": "vless",
+    "server": "jeddahvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.tesla.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "Kga22TlD_5K0KRyR94UN_V2WgLx5QKsDCl_1ma60MAY",
+        "short_id": "c57dc011"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇸🇪+瑞典+斯德哥尔摩",
+    "type": "vless",
+    "server": "stockholmvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "XWgF9IQztHkO2RQljdcVW4FN_z3Akad7_Q6U64QPsSs",
+        "short_id": "110f4771"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇿🇦+南非+约翰内斯堡",
+    "type": "vless",
+    "server": "johannesburgvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.sega.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "-llx2iClzGxu1cT4ibMLn95VEuKXy21yUXcZMFUK83Y",
+        "short_id": "7e99762c"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "ios"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇧🇷+巴西+圣保罗",
+    "type": "vless",
+    "server": "saopaulovl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "VCpl1l7NLeIVXqtdk6r4LpwE9dD4Rlx8pRkcbKs4yXI",
+        "short_id": "d7bff91c"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "edge"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇬🇧+英国+加的夫",
+    "type": "vless",
+    "server": "cardiffvl1.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.nvidia.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "kcdXLJVEzoy3KjnNQFpdU8YR0NC5MUui-SVd_0ilnn4",
+        "short_id": "9e195ccd"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇺🇸+美国+VL101",
+    "type": "vless",
+    "server": "file-oss-usoracle-01.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "2z8n0T8zssiZIKgKBfsRj7fhb7RtXnvP0_kk3CRLAE0",
+        "short_id": "67a70832"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "safari"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇺🇸+美国+VL102",
+    "type": "vless",
+    "server": "file-oss-usoracle-02.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "49ORJL1QzBMmX_skTXMUA383aOe9f5HvCQACpzM-hh4",
+        "short_id": "68e22e9d"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "chrome"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇺🇸+美国+VL103",
+    "type": "vless",
+    "server": "file-oss-usoracle-03.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.nvidia.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "3bDm2QtZ8qwvZtgGD-nr64FOSNoOpbDvooCdZSc4zxs",
+        "short_id": "0fbfd01a"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "firefox"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇺🇸+美国+VL104",
+    "type": "vless",
+    "server": "file-oss-usoracle-04.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.tesla.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "LB8_GwrW393Do-Ky9Fj2wHtDnw5Cgx5UvZ6ux302IRs",
+        "short_id": "b06d5f67"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "edge"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇷🇺+俄罗斯+VL105+0.5x",
+    "type": "vless",
+    "server": "file-oss-justru-01.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "www.sega.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "31ntmZOGuQRUxdUiWtdwSdCcfSJP01m0GvZ3dWo57BE",
+        "short_id": "008c0b18"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "qq"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇷🇺+俄罗斯+VL106+0.5x",
+    "type": "vless",
+    "server": "file-oss-justru-02.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "tr978dbPb1D2gwypR62z2GCc6WN_dxx_Jk0mP9bmcV0",
+        "short_id": "97539b43"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "chrome"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vless]🇷🇺+俄罗斯+VL107+0.5x",
+    "type": "vless",
+    "server": "file-oss-justru-03.dafei.de",
+    "server_port": 443,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "tls": {
+      "enabled": true,
+      "server_name": "amd.com",
+      "insecure": false,
+      "reality": {
+        "enabled": true,
+        "public_key": "2tBDuAftXtcIiymmpaCFMaJn9TpzJ2zjRcNkDjlOGAw",
+        "short_id": "dc9edf83"
+      },
+      "utls": {
+        "enabled": true,
+        "fingerprint": "firefox"
+      }
+    },
+    "flow": "xtls-rprx-vision"
+  },
+  {
+    "tag": "[vmess]🇺🇸 美国 01 CF自选IP 0.5x",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-01.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇺🇸 美国 02 CF自选IP 0.5x",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-02.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇺🇸 美国 03 CF自选IP",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-03.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇺🇸 美国 04 CF自选IP",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-04.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇺🇸 美国 05 CF自选IP",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-05.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇩🇪 德国 06 CF自选IP",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-06.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇩🇪 德国 07 CF自选IP",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-07.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇷🇺 俄罗斯 08 CF自选IP 0.5x",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-08.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇷🇺 俄罗斯 09 CF自选IP 0.5x",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-09.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇷🇺 俄罗斯 10 CF自选IP 0.5x",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-10.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇺🇸 美国 11 CF自选IP 0.5x",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-11.paofu.de"
+      },
+      "path": "/"
+    }
+  },
+  {
+    "tag": "[vmess]🇺🇸 美国 12 CF自选IP 0.5x",
+    "type": "vmess",
+    "server": "csgo.com",
+    "server_port": 8880,
+    "uuid": "695dddfb-8374-4ef5-9eea-2e589a310106",
+    "security": "auto",
+    "alter_id": 0,
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "cdn-node-oss-12.paofu.de"
+      },
+      "path": "/"
+    }
+  }
+]
